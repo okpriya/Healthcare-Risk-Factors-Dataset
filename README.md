@@ -1,5 +1,6 @@
 # Healthcare-Risk-Factors-Dataset
 A synthetic dataset for healthcare risk factor analysis.
+
 Dataset Description:
 This dataset contains 30,000 records and 20 features related to individuals’ health conditions, along with some noisy/random columns.
 
